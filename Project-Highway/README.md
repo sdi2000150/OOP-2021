@@ -1,3 +1,3 @@
-Assignment presentation is provided in the "OOPassgnProject_2022.pdf" (in greek).
+Assignment presentation is provided in the "OOPproj_2022.pdf" (in greek).
 
-README is provided in the "readme2_java.pdf" (in greek).
+README is provided in the "Readme.pdf" (in greek).
